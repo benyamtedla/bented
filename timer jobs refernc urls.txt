@@ -1,0 +1,9 @@
+Reference URL:
+
+Create a timer job in SharePoint 2016/2013 Programmatically (Step by Step tutorial) : https://www.enjoysharepoint.com/create-timer-job-in-sharepoint-2016-programmatically/
+
+How to debug custom web part and timer job in SharePoint 2013 using Visual Studio: https://www.enjoysharepoint.com/how-to-debug-custom-application-in-sharepoint-2013/
+
+SharePoint 2016 Timer Job Schedule Options Visual Studio 2015: https://www.enjoysharepoint.com/sharepoint-2016-timer-job-schedule-options-visual-studio-2015/
+
+How to debug timer job in SharePoint 2016 using Visual Studio 2015?: https://www.enjoysharepoint.com/how-to-debug-timer-job-in-sharepoint-2016-using-visual-studio-2015/
